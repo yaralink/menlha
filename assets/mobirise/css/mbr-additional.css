@@ -1356,9 +1356,7 @@ a {
     right: 0;
     bottom: 0;
     height: 1px;
-    background: #ffffff;
-    left: -32px;
-    width: calc(100% + 64px);
+    background: #003566;
   }
   .cid-tFDFriRKj9 .icons-menu {
     display: flex;
@@ -1379,10 +1377,10 @@ a {
     margin-right: 5px;
   }
   .cid-tFDFriRKj9 .icons-menu .icons-wrapper:hover {
-    background: #ffffff;
+    background: #003566;
   }
   .cid-tFDFriRKj9 .icons-menu .icons-wrapper:hover .mbr-iconfont {
-    color: #000000;
+    color: #ffffff;
   }
   .cid-tFDFriRKj9 .empty,
   .cid-tFDFriRKj9 .icons-menu {
@@ -1705,7 +1703,6 @@ a {
 }
 .cid-tFDFriRKj9 .navbar-dropdown {
   position: absolute;
-  position: fixed;
 }
 .cid-tFDFriRKj9 a.nav-link {
   justify-content: center;
