@@ -1,2 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
-Disallow: /cgi-bin
+Allow: /
+
+Sitemap: https://menlhafoundation.org/sitemap.xml
